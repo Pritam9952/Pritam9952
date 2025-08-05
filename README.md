@@ -19,6 +19,15 @@
 
 ## 🧰 Technical Skills
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 - **Programming:** Python, Basic Java, Basic C#
 - **Data Tools:** MySQL, Microsoft Excel (Pivot Tables, Charts)
 - **Frontend:** HTML, CSS, JavaScript
@@ -70,11 +79,26 @@
 
 ---
 
+## 🔭 Current Focus
+
+- Learning: Streamlit, Power BI, Advanced SQL  
+- Goal: Build and deploy data dashboards  
+- Preparing for: Data Analyst/Intern Roles for 2025
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pritam9952&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam9952&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 📄 Resume
+
+- [Click to View My Resume](https://drive.google.com/your-resume-link)
 
 ---
 
