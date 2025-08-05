@@ -98,7 +98,7 @@
 
 ## 📄 Resume
 
-- [Click to View My Resume](https://drive.google.com/your-resume-link)
+- [Click to View My Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1w6iax4-4Q1ctrnIeTIVRmooupFb138IU/view?usp=drive_link))
 
 ---
 
