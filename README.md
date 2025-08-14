@@ -106,7 +106,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar-4a66b2259)
 - 📧 Email: pritamnagar2211@gmail.com
-- 🌐 [Portfolio (optional if available)](https://your-portfolio-link.com)
+
 
 > *“Turning obstacles into opportunities with code and courage.”*
 
