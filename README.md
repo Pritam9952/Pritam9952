@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="mailto:pritamnagar2211@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/pritam-nagar-4a66b2259">🔗 LinkedIn</a>
+  <a href="https://pritam9952.github.io" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/pritam-nagar-4a66b2259" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">📸 Instagram</a>
 </p>
 
 ---
@@ -37,18 +39,33 @@
 
 ## 🚀 Projects
 
-### 📊 **Defect Analysis Dashboard** | *Excel*
-- Built an Excel dashboard from tractor QA data at Eicher TMTL  
-- Visualized surface defect trends & zones to cut errors by ~12%  
-- Presented insights that improved quality checks
+### 📊 **Defect Analysis Dashboard – Eicher TMTL** | *Excel, Power Query*
+- Analyzed tractor component defects and scratches
+- Built interactive dashboards for root cause analysis
+- [🔗 View Project](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee)
+
+### 🏥 **Hospital Management System** | *Python, MySQL*
+- Patient & staff record management
+- Billing and appointment scheduling
+- [🔗 View Project](https://github.com/Pritam9952/Hospital-Management-System)
+
+### 📈 **Stock Market Data Analysis** | *Python, Pandas*
+- Analyzed historical stock price trends
+- Visualization using Matplotlib & Seaborn
+- [🔗 View Project](https://github.com/Pritam9952/Stock-Market-Analysis)
+
+### 🏏 **IPL Data Analysis** | *Python, Pandas*
+- Match & player performance analytics
+- Power-hitting and strike rate analysis
+- [🔗 View Project](https://github.com/Pritam9952/IPL-Data-Analysis)
 
 ### 🌐 **Portfolio Website** | *HTML, CSS, JavaScript*
-- Designed a responsive portfolio site for showcasing projects & certifications  
-- Practiced frontend fundamentals and web structuring
+- Responsive portfolio showcasing projects & certifications
+- [🔗 View Project](https://pritam9952.github.io)
 
 ### 🎬 **Netflix Clone** | *HTML, CSS*
-- Created a static Netflix homepage using HTML & CSS  
-- Focused on responsive layout & front-end styling
+- Static replica of Netflix homepage
+- [🔗 View Project](https://github.com/Pritam9952/Netflix-Clone)
 
 ---
 
@@ -104,9 +121,9 @@
 
 ## 🤝 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar-4a66b2259)
-- 📧 Email: pritamnagar2211@gmail.com
-
+- 🌐 [Portfolio](https://pritam9952.github.io)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar-4a66b2259)  
+- 📸 [Instagram](https://instagram.com/YOUR_USERNAME)  
+- 📧 Email: pritamnagar2211@gmail.com  
 
 > *“Turning obstacles into opportunities with code and courage.”*
-
