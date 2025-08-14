@@ -44,28 +44,26 @@
 - Built interactive dashboards for root cause analysis
 - [🔗 View Project](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee)
 
-### 🏥 **Hospital Management System** | *Python, MySQL*
+### 🏥 **Hospital Management System** | *Python*
 - Patient & staff record management
 - Billing and appointment scheduling
-- [🔗 View Project](https://github.com/Pritam9952/Hospital-Management-System)
+- [🔗 View Project](https://github.com/Pritam9952/Data-Analysis-Project-SQL/tree/main/SQL_HSOPITAL_PROJECT)
 
-### 📈 **Stock Market Data Analysis** | *Python, Pandas*
-- Analyzed historical stock price trends
-- Visualization using Matplotlib & Seaborn
-- [🔗 View Project](https://github.com/Pritam9952/Stock-Market-Analysis)
+### 🏠 **Dragon Real Estate Price Prediction** | *Python, Pandas, Scikit-learn*
+- Developed a regression model to predict property prices
+- Performed data cleaning, feature engineering, and exploratory data analysis
+- Visualized key relationships using Matplotlib & Seaborn
+- Achieved high prediction accuracy with linear regression
+- [🔗 View Project](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate))
 
 ### 🏏 **IPL Data Analysis** | *Python, Pandas*
 - Match & player performance analytics
 - Power-hitting and strike rate analysis
-- [🔗 View Project](https://github.com/Pritam9952/IPL-Data-Analysis)
-
+- [🔗 View Project](https://github.com/Pritam9952/Data_Analysis-Python-Projects/tree/main/IPL%202025%20Mega%20Auction)
 ### 🌐 **Portfolio Website** | *HTML, CSS, JavaScript*
 - Responsive portfolio showcasing projects & certifications
 - [🔗 View Project](https://pritam9952.github.io)
 
-### 🎬 **Netflix Clone** | *HTML, CSS*
-- Static replica of Netflix homepage
-- [🔗 View Project](https://github.com/Pritam9952/Netflix-Clone)
 
 ---
 
@@ -123,7 +121,7 @@
 
 - 🌐 [Portfolio](https://pritam9952.github.io)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar-4a66b2259)  
-- 📸 [Instagram](https://instagram.com/YOUR_USERNAME)  
+- 📸 [Instagram](https://instagram.com/pritam_nagar_027)  
 - 📧 Email: pritamnagar2211@gmail.com  
 
 > *“Turning obstacles into opportunities with code and courage.”*
