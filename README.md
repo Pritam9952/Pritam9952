@@ -73,9 +73,7 @@
 
 - **Google Data Analytics Specialization**
   - Data Preparation, Cleaning, and Analysis with R
-  - Making Data-Driven Decisions  
-- **Power BI for Business Intelligence** *(if you have one, list here)*  
-- **Excel Advanced Training** *(if available)*  
+  - Making Data-Driven Decisions    
 
 ---
 
