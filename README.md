@@ -89,6 +89,14 @@
 
 ---
 
+## 📈 **Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam9952&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ## 🏆 Awards & Grit Highlights
 
 - Overcame early visual impairment and physical injuries  
@@ -107,7 +115,7 @@
 
 ## 📄 Resume
 
-- [Click to View My Resume](https://drive.google.com/file/d/1WOresmf_OGP3lhH3U5dNN2CoDO9fi5sP/view?usp=drive_link)
+-📌 [Click to View My Resume](https://drive.google.com/file/d/1WOresmf_OGP3lhH3U5dNN2CoDO9fi5sP/view?usp=drive_link)
 
 ---
 
@@ -118,4 +126,4 @@
 - 📸 [Instagram](https://instagram.com/pritam_nagar_027)  
 - 📧 Email: **pritamnagar2211@gmail.com**  
 
-> *“Turning obstacles into opportunities with code and courage.”*
+<h3 align="center">✨ “Turning Obstacles into Opportunities with Code & Courage” ✨</h3>
