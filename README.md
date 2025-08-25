@@ -4,6 +4,7 @@
 </h1>
 
 <h3 align="center">Turning Data into Decisions | Building Projects that Inspire 🚀</h3>
+<h3 align="center">Data Analyst & Frontend Developer | Python | SQL | Power BI | Excel | Final-Year B.Tech @ NIT Bhopal</h3>
 
 ---
 
