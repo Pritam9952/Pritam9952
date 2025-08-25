@@ -105,7 +105,7 @@
 
 ---
 
-## 🔭 Current Focus
+## 🔭 **Currently Working On**
 
 - Learning: Streamlit, Power BI, Advanced SQL  
 - Goal: Build and deploy interactive dashboards  
@@ -113,9 +113,9 @@
 
 ---
 
-## 📄 Resume
+## 📄 **Resume**
 
--📌 [Click to View My Resume](https://drive.google.com/file/d/1WOresmf_OGP3lhH3U5dNN2CoDO9fi5sP/view?usp=drive_link)
+📌 [Click to View My Resume](https://drive.google.com/file/d/1WOresmf_OGP3lhH3U5dNN2CoDO9fi5sP/view?usp=drive_link)
 
 ---
 
