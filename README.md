@@ -36,6 +36,10 @@
 | **Dragon Real Estate Prediction** | Python, Pandas, Sklearn | [View Project](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate) |
 | **IPL Data Analysis** | Python, Pandas | [View Project](https://github.com/Pritam9952/Data_Analysis-Python-Projects/tree/main/IPL%202025%20Mega%20Auction) |
 | **Portfolio Website** | HTML, CSS, JS | [View Project](https://pritam9952.github.io) |
+| **BlinkIT Grocery Sales Analysis** | SQL, Python, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Blinkit) |
+| **Road Accident Analysis in India** | PostgreSQL, Python, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Road%20Accident%20India) |
+| **Uber Cab Data Analysis** | Python, Tableau, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Uber%20Rides%20Analysis%20Project) |
+
 
 ---
 
