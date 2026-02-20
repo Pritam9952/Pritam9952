@@ -97,7 +97,7 @@
 
 ## 🏆 Awards & Grit Highlights
 
-- Overcame early visual impairment and physical injuries  
+- Overcame significant early-life challenges demonstrating resilience and discipline  
 - Achieved academic success despite health challenges  
 - Head Boy in school, Sanskrit 3rd Ranker, Cricket runner-up 🏏  
 
@@ -105,7 +105,7 @@
 
 ## 🔭 **Currently Working On**
 
-- Learning: Streamlit, Power BI, Advanced SQL  
+- Currently Upskilling: Streamlit | Advanced SQL | Power BI Optimization 
 - Goal: Build and deploy interactive dashboards  
 - Preparing for: Data Analyst/Intern Roles for 2025  
 
