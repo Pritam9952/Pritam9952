@@ -113,7 +113,7 @@
 
 ## 📄 **Resume**
 
-📌 [Click to View My Resume](https://drive.google.com/file/d/1UQ_SnG6nWADoeFjOxF0hsVxQXzuQBJY-/view?usp=drivesdk
+📌 [Click to View My Resume](https://drive.google.com/file/d/1IBsbZW09ukau1v2RuKjGrAGkY4mShvy4/view?usp=sharing
 )
 
 ---
