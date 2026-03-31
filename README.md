@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">Turning Data into Decisions | Building Projects that Inspire 🚀</h3>
-<h3 align="center">Data Analyst & Frontend Developer | Python | SQL | Power BI | Excel | Final-Year B.Tech @ NIT Bhopal</h3>
+<h3 align="center">Data Analyst & Business Inteligence | Python | SQL | Power BI | Excel | Final-Year B.Tech @ NIT Bhopal</h3>
 
 ---
 
@@ -29,17 +29,24 @@
 
 ## 🚀 **Featured Projects**
 
-| 🛠 Project | ⚡ Tech Stack | 🔗 Link |
-|-----------|-------------|----------|
-| **Defect Analysis Dashboard – Eicher TMTL** | Excel, Power Query | [View Project](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee) |
-| **Hospital Management System** | Python, SQL | [View Project](https://github.com/Pritam9952/Data-Analysis-Project-SQL/tree/main/SQL_HSOPITAL_PROJECT) |
-| **Dragon Real Estate Prediction** | Python, Pandas, Sklearn | [View Project](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate) |
-| **IPL Data Analysis** | Python, Pandas | [View Project](https://github.com/Pritam9952/Data_Analysis-Python-Projects/tree/main/IPL%202025%20Mega%20Auction) |
-| **Portfolio Website** | HTML, CSS, JS | [View Project](https://pritam9952.github.io) |
-| **BlinkIT Grocery Sales Analysis** | SQL, Python, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Blinkit) |
-| **Road Accident Analysis in India** | PostgreSQL, Python, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Road%20Accident%20India) |
-| **Uber Cab Data Analysis** | Python, Tableau, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Uber%20Rides%20Analysis%20Project) |
 
+| 🛠 Project                                                          | ⚡ Tech Stack                | 🔗 Link                                                                                                                |
+| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **📺 Netflix Customer Retention Analysis (End-to-End)** ⭐           | Python, SQL, Power BI       | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/netflix_user_retention_analysis)   |
+| **🧠 Skin Cancer Detection System (Deep Learning)** ⭐               | Python, ML, Computer Vision | [View Project](https://github.com/Pritam9952/ML-Computer-Vision-Projects/tree/main/Skin-Cancer-Classification-App)     |
+| **🚜 Defect Analysis Dashboard – Eicher TMTL (Industry Project)** ⭐ | Excel, Power Query          | [View Project](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee)                |
+| **🚕 Uber Ride Demand & Cancellation Analysis**                     | Python, Power BI            | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Uber%20Rides%20Analysis%20Project) |
+
+---
+
+## 📂 **Other Projects**
+
+| 🛠 Project                                         | ⚡ Tech Stack                 | 🔗 Link                                                                                                             |
+| -------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **🛒 BlinkIT Sales & Customer Insights Dashboard** | SQL, Python, Power BI        | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Blinkit)                        |
+| **📦 Amazon Sales Analysis**                       | Python, SQL, Power BI        | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Amazon_Sales_Raw_Data_Analysis) |
+| **🚧 Road Accident Analysis in India**             | PostgreSQL, Python, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Road%20Accident%20India)        |
+| **🏠 Dragon Real Estate Price Prediction**         | Python, Pandas, Sklearn      | [View Project](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate)               |
 
 ---
 
