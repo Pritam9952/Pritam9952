@@ -46,7 +46,7 @@
     <td width="50%" align="center">
       <b>📺 Netflix Customer Retention Dashboard</b><br><br>
       <a href="https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/netflix_user_retention_analysis">
-        <img src="./assets/netflix-dashboard.png" alt="Netflix Dashboard" width="100%" />
+        <img src="netflix_user_retention_analysis/dashboard/netflix_dashboard.png" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
