@@ -14,7 +14,7 @@
   <a href="mailto:pritamnagar2211@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://pritam9952.github.io" target="_blank">
+  <a href="https://pritam-nagar-portfolio.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/pritam-nagar/">
