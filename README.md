@@ -1,134 +1,50 @@
-<!-- Typing SVG Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+Nagar!;Data+Analyst+%7C+Frontend+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Final+Year+B.Tech+%40+NIT+Bhopal" />
-</h1>
-
-<h3 align="center">Turning Data into Decisions | Building Projects that Inspire 🚀</h3>
-<h3 align="center">Data Analyst & Business Inteligence | Python | SQL | Power BI | Excel | Final-Year B.Tech @ NIT Bhopal</h3>
-
----
-
-## 🌐 **Connect with Me**
-
+<!-- 3D Waving Banner Header -->
 <p align="center">
-  <a href="mailto:pritamnagar2211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:4A00E0&height=230&section=header&text=Pritam%20Nagar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20BI%20Analyst%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=60&descSize=19" width="100%" />
+</p>
+
+<!-- Neon Typing Animation -->
+<p align="center">
   <a href="https://pritam-nagar-portfolio.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pritam-nagar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/pritam_nagar_027">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=Final-Year+B.Tech+%40+MANIT+(NIT+Bhopal);Turning+Raw+Data+into+Executive+Decisions;Building+Full-Stack+Web+Apps%2C+3D+UI+%26+AI+Tools;Open+for+Data+Analyst%2C+BI+%26+Full-Stack+Roles" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-## 🚀 **Featured Projects**
-
-
-| 🛠 Project                                                          | ⚡ Tech Stack                | 🔗 Link                                                                                                                |
-| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **📺 Netflix Customer Retention Analysis (End-to-End)** ⭐           | Python, SQL, Power BI       | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/netflix_user_retention_analysis)   |
-| **🧠 Skin Cancer Detection System (Deep Learning)** ⭐               | Python, ML, Computer Vision | [View Project](https://github.com/Pritam9952/ML-Computer-Vision-Projects/tree/main/Skin-Cancer-Classification-App)     |
-| **🚜 Defect Analysis Dashboard – Eicher TMTL (Industry Project)** ⭐ | Excel, Power Query          | [View Project](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee)                |
-| **🚕 Uber Ride Demand & Cancellation Analysis**                     | Python, Power BI            | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Uber%20Rides%20Analysis%20Project) |
-
----
-
-## 📂 **Other Projects**
-
-| 🛠 Project                                         | ⚡ Tech Stack                 | 🔗 Link                                                                                                             |
-| -------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **🛒 BlinkIT Sales & Customer Insights Dashboard** | SQL, Python, Power BI        | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Blinkit)                        |
-| **📦 Amazon Sales Analysis**                       | Python, SQL, Power BI        | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Amazon_Sales_Raw_Data_Analysis) |
-| **🚧 Road Accident Analysis in India**             | PostgreSQL, Python, Power BI | [View Project](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Road%20Accident%20India)        |
-| **🏠 Dragon Real Estate Price Prediction**         | Python, Pandas, Sklearn      | [View Project](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate)               |
-
----
-
-## 🧰 **Tech Stack & Skills**
+<!-- 3D Glow Action Buttons & Live Counters -->
+<p align="center">
+  <a href="https://pritam-nagar-portfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_3D_PORTFOLIO-FF4B2B?style=for-the-badge&logoColor=white" height="36" />
+  </a>
+  <a href="https://www.linkedin.com/in/pritam-nagar/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
+  </a>
+  <a href="https://drive.google.com/file/d/13YU52fdwk_2lzZlTU9IkNqRVgXRyQfBp/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_RESUME-8E2DE2?style=for-the-badge&logo=googledrive&logoColor=white" height="36" />
+  </a>
+  <a href="mailto:pritamnagar2211@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_HIRE_ME-00B09B?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
+  </a>
+  <a href="https://instagram.com/pritam_nagar_027" target="_blank">
+    <img src="https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Pritam9952&label=PROFILE%20VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Pritam9952?label=FOLLOWERS&color=FF0080&style=for-the-badge" alt="Followers" />
 </p>
 
-- **Programming:** Python, Basic Java, Basic C#  
-- **Data Tools:** MySQL, Power BI, Excel (Pivot Tables, Charts, Dashboards)  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Others:** Data Wrangling, Visualization, Graphic Designing  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 🧊 **About Me — Hybrid Data & Full-Stack Engineer**
 
-## 🏭 Internship Experience
-
-**Trainee | Eicher TMTL, Bhopal**  
-*May – June 2024*  
-- Analyzed defects in tractor manufacturing lines  
-- Built pivot dashboards in Excel to track issues  
-- Proposed changes that helped reduce surface defects  
-- Collaborated with QA team for root cause solutions  
-
----
-
-## 📜 Certifications
-
-- **Google Data Analytics Specialization**
-  - Data Preparation, Cleaning, and Analysis with R
-  - Making Data-Driven Decisions    
-
----
-
-
-
----
-
-## 📈 **Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam9952&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Awards & Grit Highlights
-
-- Overcame significant early-life challenges demonstrating resilience and discipline  
-- Achieved academic success despite health challenges  
-- Head Boy in school, Sanskrit 3rd Ranker, Cricket runner-up 🏏  
-
----
-
-## 🔭 **Currently Working On**
-
-- Currently Upskilling: Streamlit | Advanced SQL | Power BI Optimization 
-- Goal: Build and deploy interactive dashboards  
-- Preparing for: Data Analyst/Intern Roles for 2025  
-
----
-
-## 📄 **Resume**
-
-📌 [Click to View My Resume](https://drive.google.com/file/d/13YU52fdwk_2lzZlTU9IkNqRVgXRyQfBp/view?usp=sharing)
-
----
-
-## 🤝 Let’s Connect!
-
-- 🌐 [Portfolio](https://pritam-nagar-portfolio.onrender.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar/)  
-- 📸 [Instagram](https://instagram.com/pritam_nagar_027)  
-- 📧 Email: **pritamnagar2211@gmail.com**  
-
-<h3 align="center">✨ “Turning Obstacles into Opportunities with Code & Courage” ✨</h3>
+```yaml
+name: "Pritam Nagar"
+education: "B.Tech Mechanical Engineering @ MANIT (NIT Bhopal) [2022–2026]"
+location: "Indore / Bhopal, Madhya Pradesh, India"
+core_domains:
+  - "Business Intelligence & Data Analytics (Python, SQL, Power BI, Advanced Excel)"
+  - "Full-Stack Web Engineering (Node.js, Express, PostgreSQL, Three.js, REST APIs)"
+  - "AI & Machine Learning Systems (Gemini AI Integration, Deep Learning, Computer Vision)"
+live_portfolio: "[https://pritam-nagar-portfolio.onrender.com](https://pritam-nagar-portfolio.onrender.com)"
+availability: "Open for Full-Time Data Analyst / BI / Full-Stack Roles & Freelance Projects"
