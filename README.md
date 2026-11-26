@@ -126,7 +126,7 @@
 
 ## 🤝 Let’s Connect!
 
-- 🌐 [Portfolio](https://pritam9952.github.io)  
+- 🌐 [Portfolio](https://pritam-nagar-portfolio.onrender.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar/)  
 - 📸 [Instagram](https://instagram.com/pritam_nagar_027)  
 - 📧 Email: **pritamnagar2211@gmail.com**  
